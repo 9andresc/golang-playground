@@ -1,3 +1,5 @@
+// The Go Playground
+
 package main
 
 // import (

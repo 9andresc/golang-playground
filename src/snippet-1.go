@@ -1,3 +1,5 @@
+// Hello World
+
 package main
 
 // import (
@@ -5,5 +7,5 @@ package main
 // )
 
 // func main() {
-// 	fmt.Println("Hello Word")
+// 	fmt.Println("Hello World")
 // }
